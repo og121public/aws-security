@@ -597,20 +597,6 @@
 
 -   Using the AWS Well-Architected Tool to identify security gaps
 
-## Security related Technologies and concepts
-
--   AWS CLI
-
--   AWS SDKs
-
--   AWS Management Console
-
--   Secure remote access
-
--   Certificate management
-
--   Infrastructure as code (IaC)
-
 ## In-scope AWS services and features
 
 #### Management and Governance:
